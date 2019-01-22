@@ -1,0 +1,7 @@
+[package]
+name = "rust_raytracer"
+version = "0.1.0"
+authors = ["Timofey Martynov <feymartynov@gmail.com>"]
+edition = "2018"
+
+[dependencies]
